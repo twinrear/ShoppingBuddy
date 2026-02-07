@@ -1,0 +1,6 @@
+@ShoppingBuddy_HostAddress = http://localhost:5211
+
+GET {{ShoppingBuddy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
